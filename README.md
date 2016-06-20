@@ -2,4 +2,5 @@
 
 ###Reminder
 
-git lg
+git l
+g
