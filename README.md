@@ -11,3 +11,7 @@ Use
 	git lg
 	git lg -p
 
+
+You will have to clone
+https://github.com/magicmonty/bash-git-prompt
+
